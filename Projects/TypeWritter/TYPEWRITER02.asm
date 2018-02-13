@@ -15,7 +15,7 @@ INST_REG:       EQU     REGISTOR
 
 
 REGBLK:         EQU     $0
-#include        Reg9s12.h
+#include        C:\Users\don.husky\Documents\GitHub\HCS12\Libs\Reg9s12.h
 GETCHAR:        EQU     $EE84 ;MAY HAVE ISSUES
 PUTCHAR:        EQU     $EE86
 STACK:          EQU     $2000
